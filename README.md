@@ -1,9 +1,3 @@
-JavaScript深入系列 15 篇已完结。
-
-JavaScript专题系列 20 篇已完结。
-
-underscore 系列 8 篇已完结。
-
 ## 深入系列目录
 
 1. [JavaScirpt深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
