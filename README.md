@@ -1,21 +1,8 @@
-# 冴羽的博客
-
-## 进度
-
 JavaScript深入系列 15 篇已完结。
 
 JavaScript专题系列 20 篇已完结。
 
 underscore 系列 8 篇已完结。
-
-## 专栏
-
-* [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
-* [segmentfault主页](https://segmentfault.com/u/yayu/articles)
-
-## 其他
-
-* [知乎](https://www.zhihu.com/people/qing-feng-yi-yang/activities)
 
 ## 深入系列目录
 
@@ -82,16 +69,4 @@ underscore 系列 8 篇已完结。
 6. [ES6 系列之模拟实现一个 Set 数据结构](https://github.com/mqyqingfeng/Blog/issues/91)
 7. [ES6 系列之 WeakMap](https://github.com/mqyqingfeng/Blog/issues/92)
 
-## 注意
 
-深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
-
-## 勘误及提问
-
-如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
-
-如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
-
-## License
-
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
